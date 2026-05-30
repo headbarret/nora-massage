@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nora-massage/static/css/main.560de4f1.css",
+    "main.js": "/nora-massage/static/js/main.53df6bbe.js",
+    "index.html": "/nora-massage/index.html",
+    "main.560de4f1.css.map": "/nora-massage/static/css/main.560de4f1.css.map",
+    "main.53df6bbe.js.map": "/nora-massage/static/js/main.53df6bbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560de4f1.css",
+    "static/js/main.53df6bbe.js"
+  ]
+}
