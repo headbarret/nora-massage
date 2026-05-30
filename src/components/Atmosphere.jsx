@@ -51,7 +51,7 @@ function Strip({ strip, index }) {
       ref={ref}
     >
       <div className="atm-strip__photo">
-        <img src={strip.img} alt={strip.alt} />
+        <img src={`${process.env.PUBLIC_URL}${strip.img}`} alt={strip.alt} />
       </div>
       <div className="atm-strip__text">
         <p className="atm-strip__phrase">

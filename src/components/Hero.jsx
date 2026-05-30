@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Background photo */}
       <div className="hero__bg">
         <img
-          src="/images/hero.jpg"
+          src={`${process.env.PUBLIC_URL}/images/hero.jpg`}
           alt="Спокойная атмосфера студии — масла, свечи, забота"
         />
       </div>
